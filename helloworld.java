@@ -5,6 +5,8 @@ class helloworld
         System.out.println("hi friends.");
         System.out.println("My First Java Program.");
         System.out.println("My First Java Program.");
+         System.out.println("My First Java Program.");
+         System.out.println("My First Java Program.");
         
     }
 }
