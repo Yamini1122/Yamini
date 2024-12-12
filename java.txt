@@ -14,38 +14,4 @@ public class Factorial {
  System.out.println(“Factorial of ” + num + ” is: ” + factorial);
 
  }
-
-}
-program 2
-public class EvenOdd {
-
- public static void main(String[] args) {
-
- int num = 5;
-
- if(num % 2 == 0)
-
- System.out.println(num + ” is even.”);
-
- else
-
- System.out.println(num + ” is odd.”);
-
- }
-
-}
-program 3
-
-public class MultiplyTwoNumbers {
-
- public static void main(String[] args) {
-
- double first = 2.5, second = 4.5;
-
- double product = first * second;
-
- System.out.println(“The product is: ” + product);
-
- }
-
 }
